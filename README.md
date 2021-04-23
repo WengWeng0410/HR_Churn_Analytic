@@ -82,6 +82,22 @@ To summarise, the longer an employee work in the company, the lesser the posibil
 ![](/images/Emp_vs_sal.png)
 <br> Based on the graph, it can be seen that employees with low salary are with highest number of employee left followed by medium and high salary. <br> 
 
+#### Last performance evaluation of existing and left employee
+![](/images/Emp_vs_evaluation.png)
+<br> Based on the graph, it can be seen that existing employees are mostly with at least 50% evaluation score. For the employees left, there are with evaluation score of less than 60%. <br> However, there are employees with evaluation score of 70% and above left the company. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
