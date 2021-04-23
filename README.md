@@ -34,7 +34,7 @@ Based on the given dataset, it is ready to use for analysis.
 
 ## EDA
 
-To understand the patterns and values of the data by using different types of visualizations <br><br>
+To understand the patterns and values of the data by using different types of visualizations 
 
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
