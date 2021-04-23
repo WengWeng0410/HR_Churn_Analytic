@@ -47,6 +47,7 @@ To understand the patterns and values of the data by using different types of vi
 
 #### Employee for each department (existing and left)
 ![](/images/Exist_vs_Left_Dept.png)
+<br> Based on the finding, There are 10 departments in the company. Sales department is with the highest number of employee (4140) and followed by Technical (2721) and Support (2229). <br>
 
 #### Number of project per employee
 ![](/images/Emp_vs_proj.png)
