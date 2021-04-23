@@ -87,7 +87,7 @@ To summarise, the longer an employee work in the company, the lesser the posibil
 <br> Based on the graph, it can be seen that existing employees are mostly with at least 50% evaluation score. For the employees left, there are with evaluation score of less than 60%. <br> However, there are employees with evaluation score of 70% and above left the company. 
 
 #### Average working hours of existing and left employee
-![](/images/Emp_vs_workHours_main.png) 
+![](/images/Emp_workhours_main.png) 
 ![](/images/Emp_vs_workHours.png) 
 ![](/images/Emp_vs_workHours_2.png)
 <br> Based on the graphs above, employees with good evaluation left the company mainly due to most of them are assigned with 4 - 7 projects, and their average monthly working hours are more than 200 hours. <br><br> **Note**: Average monthly working hours is 184 hours (23 days x 8 hours) <br>
