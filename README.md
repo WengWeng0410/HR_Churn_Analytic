@@ -58,8 +58,9 @@ Based on the graph, employees with 3 and 4 projects are with the highest number 
 
 In general, employees are comfortable with 3 or 4 projects. <br> Hence, number of project may also determine if an employee will leave the company <br>
 
-
-
+#### Employee with and without work accident
+![](/images/Emp_vs_WorkAcc.png)
+<br> Based on the graph, it is found that the number of employees with work accident left the company is low accross all the departments in the company.
 
 
 
