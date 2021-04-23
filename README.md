@@ -36,7 +36,7 @@ Based on the given dataset, it is ready to use for analysis.
 
 To understand the patterns and values of the data by using different types of visualizations <br><br>
 
-### Heatmap of correlation between the features <br>
+#### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
   
 
