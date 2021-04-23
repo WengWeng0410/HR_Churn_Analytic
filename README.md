@@ -39,10 +39,17 @@ To understand the patterns and values of the data by using different types of vi
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
   
+#### Total employee in the company
+![](/images/TotalEmp.png)
 
+#### Employee distribution in the company
+![](/images/EmpDistribution.png)
 
+#### Employee for each department (existing and left)
+![](/images/Exist_vs_Left_Dept.png)
 
-
+#### Number of project per employee
+![](/images/Emp_vs_proj.png)
 
 
 
