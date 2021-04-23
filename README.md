@@ -50,6 +50,13 @@ To understand the patterns and values of the data by using different types of vi
 
 #### Number of project per employee
 ![](/images/Emp_vs_proj.png)
+**For Left Employee** <br>
+Based on the graph, the employee with 2 projects were with the highest number of employee left, (1567 employees), followed by 6 (655 employees) and 5 (613 employees) projects. <br> Also, it can be seen that employees tend to leave if the number of projects increased (from 3 to 6 projects). Suprisingly, all the employees with 7 projects have all left the company. Besides, it is found that employees with 2 project are tend to leave the company as they may feel that their talents are not utilized. <br> <br>
+
+**For Existing Employee** <br>
+Based on the graph, employees with 3 and 4 projects are with the highest number of employees (3983 and 3956, respectively). This is followed by employees with 5, 2 and 6 projects. This can conclude that employees are assigned with 3-4 projects and they are comfortable with the assignment. <br> <br> 
+
+In general, employees are comfortable with 3 or 4 projects. <br> Hence, number of project may also determine if an employee will leave the company <br>
 
 
 
