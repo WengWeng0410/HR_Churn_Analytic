@@ -64,6 +64,14 @@ In general, employees are comfortable with 3 or 4 projects. <br> Hence, number o
 
 #### Years of experience for existing and left employee
 ![](/images/Emp_vs_exp.png)
+<br> **For Existing Employee** <br>
+Based on the graph, it can be seen that years 2 to 4 are with the highest number of employees. <br>
+
+**For Left Employee** <br>
+For the employees with 2 years experience, it can be seen that there are only 53 employees out of 3244 left the company. This may due to the employees would like to gain more working experience or experience the working environment before leaving. <br>
+The year with the highest number of employee left is 3 and slowly decreases to year 6. <br>
+For years 7 to 10, there is no employee leaving the company. <br><br>
+To summarise, the longer an employee work in the company, the lesser the posibility he/she leaves the company. <br>
 
 
 
