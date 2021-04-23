@@ -44,10 +44,10 @@ To understand the patterns and values of the data by using different types of vi
 
 #### Employee distribution in the company
 ![](/images/EmpDistribution.png)
+<br> Based on the graph, There are 10 departments in the company. Sales department is with the highest number of employee (4140) and followed by Technical (2721) and Support (2229). <br> 
 
 #### Employee for each department (existing and left)
 ![](/images/Exist_vs_Left_Dept.png)
-<br> Based on the finding, There are 10 departments in the company. Sales department is with the highest number of employee (4140) and followed by Technical (2721) and Support (2229). <br>
 
 #### Number of project per employee
 ![](/images/Emp_vs_proj.png)
@@ -74,9 +74,13 @@ The year with the highest number of employee left is 3 and slowly decreases to y
 For years 7 to 10, there is no employee leaving the company. <br><br>
 To summarise, the longer an employee work in the company, the lesser the posibility he/she leaves the company. <br>
 
+#### Promotion in the past 5 years for existing and left employee
+![](/images/Emp_vs_promo.png)
+<br> Based on the graph, it can be seen that the number of employees that received promotion in the past 5 years is very low. (319 employees out of 15000 promoted) <br>
 
-
-
+#### Salary category of existing and left employee
+![](/images/Emp_vs_sal.png)
+<br> Based on the graph, it can be seen that employees with low salary are with highest number of employee left followed by medium and high salary. <br> 
 
 
 
