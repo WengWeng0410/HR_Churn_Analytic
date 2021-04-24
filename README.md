@@ -35,7 +35,7 @@ Based on the given dataset, it is ready to use for analysis.
 ## EDA
 
 To understand the patterns and values of the data by using different types of visualizations. <br>
-Dashboard of HR Churn Analytic is avaiable [here](https://datastudio.google.com/reporting/1774b914-a1c3-4b3b-b537-5534ffbc1889).
+**Dashboard** of HR Churn Analytic is avaiable [here](https://datastudio.google.com/reporting/1774b914-a1c3-4b3b-b537-5534ffbc1889).
 
 #### Heatmap of correlation between the features 
 ![](/images/HRC_Corr.png)
