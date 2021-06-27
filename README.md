@@ -21,7 +21,8 @@ Works done as follows
 **Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
 **IDE:** Google Colab <br>
 **Dashboard Software:** Google Data Studio <br>
-**Dataset:** from [360 Data Science Programm](https://thelead.io/data-science-360) by The Lead 
+**Dataset:** from [360 Data Science Programm](https://thelead.io/data-science-360) by The Lead <br>
+**Python Script:** [Notebook](https://colab.research.google.com/drive/1jjykwZWvngHiko-Y3ZneIv0AD-iB5rJG?usp=sharing)
 
 ## Data Gathering
 
