@@ -120,7 +120,7 @@ Performance of the model as follows: <br>
 * KNeighborsClassifier - 93.92%
 ![](/images/model_performance_HRC.png)
 
-Based on the result, LogisticRegression is able to produce the best accuracy score, which is 79.62%.
+Based on the result, RandomForestClassifier is able to produce the best accuracy score, which is 98.08%.
 
 
 
